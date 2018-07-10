@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.alshabib.theghost02">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/iconn"
+        android:label="الشيطان"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="false"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity
+            android:name=".FirstOne"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Ask1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".yes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".aboutme"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".alshitanhowis"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".no"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".start"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".khlaa"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".connection"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tlasm"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".notgood"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".game1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".whosay"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".engame"
+            android:screenOrientation="portrait" />
+        <activity android:name=".books" />
+        <activity android:name=".reading"></activity>
+    </application>
+
+</manifest>

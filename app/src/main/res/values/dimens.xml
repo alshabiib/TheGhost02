@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="TextSize">22sp</dimen> // It is not used.
+
+    <dimen name="TextSizeView">22sp</dimen>
+    <dimen name="madein">18sp</dimen>
+    <dimen name="doneby">35sp</dimen>
+    <dimen name="TextAboutAlshitan">20sp</dimen>
+    <dimen name="AlshitanTitle">35sp</dimen>
+    <dimen name="qoute">20sp</dimen>
+    <dimen name="EditText">18sp</dimen>
+    <dimen name="TheAdress">24sp</dimen>
+    <dimen name="Num">24sp</dimen>
+    <dimen name="QuesE">36sp</dimen>
+    <dimen name="Timer">18sp</dimen>
+    <dimen name="AlshtanSay">18sp</dimen>
+    <dimen name="AlshtanName">13sp</dimen>
+    <dimen name="Here">30sp</dimen>
+    <dimen name="Ques">20sp</dimen>
+    <dimen name="Tlsm">16sp</dimen>
+    <dimen name="TlsmType">21sp</dimen>
+
+</resources>

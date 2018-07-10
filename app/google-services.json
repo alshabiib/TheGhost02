@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "592327830564",
+    "firebase_url": "https://alshitan-8ddb9.firebaseio.com",
+    "project_id": "alshitan-8ddb9",
+    "storage_bucket": "alshitan-8ddb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592327830564:android:fe4168d6be4085dd",
+        "android_client_info": {
+          "package_name": "com.alshabib.theghost02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592327830564-quu7j49flbalfjrtqs6jmlssvuqm1gc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDCS_O07g_Mowdm2rMJpT8F7KIpinq6i0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
